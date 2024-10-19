@@ -1,0 +1,7 @@
+C:\Users\ander\OneDrive\Escritorio\Ander-vigil-programacion-1\Actividad-1-programacion computacional\Actividad-1-programacion computacional\obj\Debug\Actividad-1-programacion computacional.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Escritorio\Ander-vigil-programacion-1\Actividad-1-programacion computacional\Actividad-1-programacion computacional\obj\Debug\Actividad-1-programacion computacional.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Escritorio\Ander-vigil-programacion-1\Actividad-1-programacion computacional\Actividad-1-programacion computacional\bin\Debug\Actividad-1-programacion computacional.exe.config
+C:\Users\ander\OneDrive\Escritorio\Ander-vigil-programacion-1\Actividad-1-programacion computacional\Actividad-1-programacion computacional\bin\Debug\Actividad-1-programacion computacional.exe
+C:\Users\ander\OneDrive\Escritorio\Ander-vigil-programacion-1\Actividad-1-programacion computacional\Actividad-1-programacion computacional\bin\Debug\Actividad-1-programacion computacional.pdb
+C:\Users\ander\OneDrive\Escritorio\Ander-vigil-programacion-1\Actividad-1-programacion computacional\Actividad-1-programacion computacional\obj\Debug\Actividad-1-programacion computacional.exe
+C:\Users\ander\OneDrive\Escritorio\Ander-vigil-programacion-1\Actividad-1-programacion computacional\Actividad-1-programacion computacional\obj\Debug\Actividad-1-programacion computacional.pdb
